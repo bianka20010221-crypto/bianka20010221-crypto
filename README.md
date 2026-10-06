@@ -1,32 +1,27 @@
 # Gál Bianka
 
-### IT AI developer · multi-agent systems · business automation · API integrations
+### IT AI Developer · AI governance · multi-agent systems · business automation
 
 Szegeden dolgozó fejlesztő és automatizációs szakember vagyok. Valós üzleti folyamatokból építek AI-agenteket, integrációkat, adatfolyamokat és használható webes rendszereket — a prototípustól az üzemeltethető megoldásig.
 
-> I build practical AI and automation systems around real business workflows, with a focus on multi-agent environments, APIs, enterprise data and human-in-the-loop operations.
+> I build practical AI and automation systems around real business workflows, from validated prototypes to secure, observable and human-controlled solutions.
 
-## Projektmenü
+## Kiemelt projektek · Selected projects
 
 [Teljes projekt-térkép: mi hol található és mi a következő lépés →](https://github.com/bianka20010221-crypto/ai-automation-portfolio/blob/main/PROJECT_MAP.md)
 
 | Kiemelt projekt | Fókusz | Megnyitás |
 |---|---|---|
-| **AI & Automation Portfolio** | OpenClaw, CégMotor, AI.Trader, PrivateChef, integrációk és letölthető szakmai anyagok | [Portfólió](https://github.com/bianka20010221-crypto/ai-automation-portfolio) |
-| **OpenClaw multi-agent rendszer** | Öt agent, külön workspace-ek, ütemezés, csatornák, jóváhagyás és VPS-üzemeltetés | [Esettanulmány](https://github.com/bianka20010221-crypto/ai-automation-portfolio/blob/main/case-studies/openclaw-multi-agent.md) |
-| **CégMotor** | Több-bérlős vállalati munkatér és jóváhagyásos AI-agent | [Esettanulmány](https://github.com/bianka20010221-crypto/ai-automation-portfolio/blob/main/case-studies/cegmotor.md) · [Demó](https://cegmotor-app.bianka1717.chatgpt.site) |
-| **CégMotor security showcase** | PKCE, AES-GCM titkosítás és emberi jóváhagyásos AI-műveletek futtatható kódmintája | [Repository](https://github.com/bianka20010221-crypto/cegmotor-business-automation-showcase) |
-| **Data Pipeline Showcase** | Többforrású adatbegyűjtés, QA, JWT/RS256 és riporting | [Repository](https://github.com/bianka20010221-crypto/adatrendszer-data-pipeline-showcase) |
-| **Translation AI Workflow** | Python workflow, routing, tesztek és human-in-the-loop működés | [Repository](https://github.com/bianka20010221-crypto/translation-ai-workflow-demov2) |
+| **Azure AI Governance Demo** | Azure Functions, Foundry, Entra ID, Application Insights és human-in-the-loop governance | [Repository](https://github.com/bianka20010221-crypto/azure-ai-usecase-governance-demo) |
+| **CégMotor** | Több-bérlős üzleti automatizáció, PKCE, AES-GCM és jóváhagyásos AI-agent | [Kódminta](https://github.com/bianka20010221-crypto/cegmotor-business-automation-showcase) · [Esettanulmány](https://github.com/bianka20010221-crypto/ai-automation-portfolio/blob/main/case-studies/cegmotor.md) |
+| **Data Pipeline Showcase** | Többforrású adatbegyűjtés, QA, JWT/RS256 és vezetői riporting | [Repository](https://github.com/bianka20010221-crypto/adatrendszer-data-pipeline-showcase) |
+| **Translation AI Workflow** | Tesztelhető Python routing, QA és human-in-the-loop feldolgozás | [Repository](https://github.com/bianka20010221-crypto/translation-ai-workflow-demov2) |
 | **PrivateChef Operations** | Fiktív adatos rendelésfeldolgozás, konyhai összesítő, futárlista és címkesorok | [Repository](https://github.com/bianka20010221-crypto/privatechef-operations-automation) |
-| **Interaktív baleseti szimulátor** | Paramétervezérelt mozgás, ütközésdetektálás és böngészős vizualizáció | [Élő demó](https://bianka20010221-crypto.github.io/interactive-collision-simulator/) · [Repository](https://github.com/bianka20010221-crypto/interactive-collision-simulator) |
-| **Moxie animált pet** | 8×11-es transzparens spritesheet és dokumentált vizuális QA | [Repository](https://github.com/bianka20010221-crypto/moxie-animated-pet-showcase) |
-| **Garden Panzió** | Többoldalas WordPress/Elementor rendszer és csoportos ajánlatkérési útvonal | [Esettanulmány](https://github.com/bianka20010221-crypto/ai-automation-portfolio/blob/main/case-studies/garden-panzio.md) |
-| **Szárnyas Pék** | Reszponzív márka- és webshopfelület, előnézeti környezet és integrációs előkészítés | [Esettanulmány](https://github.com/bianka20010221-crypto/ai-automation-portfolio/blob/main/case-studies/szarnyas-pek.md) |
+| **Interaktív szimulátor** | Paramétervezérelt mozgás, ütközésdetektálás és böngészős vizualizáció | [Élő demó](https://bianka20010221-crypto.github.io/interactive-collision-simulator/) · [Repository](https://github.com/bianka20010221-crypto/interactive-collision-simulator) |
 
 ## Technológiai fókusz
 
-`OpenClaw` `Claude` `JavaScript` `TypeScript` `Python` `PHP` `SQL` `Cloudflare Workers` `D1` `Supabase` `REST API` `OAuth` `JWT/RS256` `RLS/RBAC`
+`Azure Functions` `Microsoft Foundry` `Entra ID` `Application Insights` `OpenClaw` `JavaScript` `TypeScript` `Python` `PHP` `SQL` `Cloudflare Workers` `Supabase` `REST API` `OAuth` `JWT/RS256` `RLS/RBAC`
 
 ## Amit a projektjeimben fontosnak tartok
 
@@ -37,6 +32,8 @@ Szegeden dolgozó fejlesztő és automatizációs szakember vagyok. Valós üzle
 - érthető dokumentáció technikai és üzleti szereplőknek is.
 
 ## Elérhetőség
+
+Nyitott vagyok IT AI Developer, AI automation és technikai projektkoordinációs lehetőségekre.
 
 - [Teljes AI és automatizációs portfólió](https://github.com/bianka20010221-crypto/ai-automation-portfolio)
 - [Önéletrajz PDF](https://github.com/bianka20010221-crypto/ai-automation-portfolio/blob/main/documents/Gal_Bianka_IT_AI_Developer_CV.pdf)
