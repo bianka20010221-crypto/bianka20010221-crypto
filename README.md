@@ -8,6 +8,8 @@ Szegeden dolgozó fejlesztő és automatizációs szakember vagyok. Valós üzle
 
 ## Projektmenü
 
+[Teljes projekt-térkép: mi hol található és mi a következő lépés →](https://github.com/bianka20010221-crypto/ai-automation-portfolio/blob/main/PROJECT_MAP.md)
+
 | Kiemelt projekt | Fókusz | Megnyitás |
 |---|---|---|
 | **AI & Automation Portfolio** | OpenClaw, CégMotor, AI.Trader, PrivateChef, integrációk és letölthető szakmai anyagok | [Portfólió](https://github.com/bianka20010221-crypto/ai-automation-portfolio) |
