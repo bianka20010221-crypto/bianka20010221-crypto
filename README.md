@@ -19,6 +19,8 @@ Szegeden dolgozó fejlesztő és automatizációs szakember vagyok. Valós üzle
 | **PrivateChef Operations** | Fiktív adatos rendelésfeldolgozás, konyhai összesítő, futárlista és címkesorok | [Repository](https://github.com/bianka20010221-crypto/privatechef-operations-automation) |
 | **Interaktív baleseti szimulátor** | Paramétervezérelt mozgás, ütközésdetektálás és böngészős vizualizáció | [Élő demó](https://bianka20010221-crypto.github.io/interactive-collision-simulator/) · [Repository](https://github.com/bianka20010221-crypto/interactive-collision-simulator) |
 | **Moxie animált pet** | 8×11-es transzparens spritesheet és dokumentált vizuális QA | [Repository](https://github.com/bianka20010221-crypto/moxie-animated-pet-showcase) |
+| **Garden Panzió** | Többoldalas WordPress/Elementor rendszer és csoportos ajánlatkérési útvonal | [Esettanulmány](https://github.com/bianka20010221-crypto/ai-automation-portfolio/blob/main/case-studies/garden-panzio.md) |
+| **Szárnyas Pék** | Reszponzív márka- és webshopfelület, előnézeti környezet és integrációs előkészítés | [Esettanulmány](https://github.com/bianka20010221-crypto/ai-automation-portfolio/blob/main/case-studies/szarnyas-pek.md) |
 
 ## Technológiai fókusz
 
